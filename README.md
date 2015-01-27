@@ -57,5 +57,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 ##Other Licenses
-**CC BY-NC-SA 3.0** - https://creativecommons.org/licenses/by-nc-sa/3.0/
+**CC BY-NC-SA 3.0** - https://creativecommons.org/licenses/by-nc-sa/3.0/  
 **CC BY-SA 3.0** - https://creativecommons.org/licenses/by-sa/3.0/
