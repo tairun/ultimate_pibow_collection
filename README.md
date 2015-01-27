@@ -14,7 +14,7 @@ For now I'm working with a dwg-File. Later releases will feature dxf, Illustrato
 
 The MIT License (MIT)
 
-Copyright (c) <2015> <tairun>
+Copyright (c) 2015 tairun
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
