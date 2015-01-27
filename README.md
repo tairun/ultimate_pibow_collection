@@ -1,5 +1,5 @@
 ##Caution
-> This Project is not yet complete and of little use to the public. Check back in about 2 weeks. With the release of version 1.0 I will be taking requests.
+> This Project is not yet complete and of little use to the public. Check back in about 2 weeks (from initial commit **1a98725** date). With the release of version 1.0 I will be taking requests.
 
 ##Goal
 This project aims to provide all the cases (in pibow style) for the Raspberry Pi, of which you could ever dream of - in a simple way.
@@ -14,7 +14,7 @@ For now I'm working with a dwg-File. Later releases will feature dxf, Illustrato
 
 The MIT License (MIT)
 
-Copyright (c) <year> <copyright holders>
+Copyright (c) <2015> <tairun>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
