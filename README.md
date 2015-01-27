@@ -7,7 +7,29 @@ This project aims to provide all the cases (in pibow style) for the Raspberry Pi
 For now I'm working with a dwg-File. Later releases will feature dxf, Illustrator, etc files for the users convenience
 
 ##Sources
-*gotta collect em all first*
+Pibow Enclosure for the Raspberry PiÂ® Model B by *pimoroni*  
+http://www.thingiverse.com/thing:33443  
+  
+Enclosure for the Raspberry Pi Model B+ by *crispconcept*  
+http://www.thingiverse.com/thing:545709  
+  
+Supercase for Raspberry Pi B+ with 3.5 Inch TFT Screen by *sbloom67*
+http://www.thingiverse.com/thing:488701  
+  
+pibrow mod by *mer2329*  
+http://www.thingiverse.com/thing:619184  
+  
+Raspberry Pi Pibow case mod for camera by *macrutan*  
+http://www.thingiverse.com/thing:122568  
+
+Pibow Base for MicroSD Adapter by *TheRockLobster*  
+http://www.thingiverse.com/thing:32200  
+  
+RaspiCase: A layered Pi case by *eltercerlugar*  
+http://www.instructables.com/id/RaspiCase-A-layered-Pi-case/  
+  
+Pibow Variation with Lasercut Snap Clips by *ana0*  
+http://www.thingiverse.com/thing:622697  
 
 ##License
 **As far as I'm concerned everything here is MIT, need to check though if I included some stuff with other licenses. Will be sorted out with the first release aka v1.0**
@@ -33,3 +55,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+##Other Licenses
+**CC BY-NC-SA 3.0** - https://creativecommons.org/licenses/by-nc-sa/3.0/
+**CC BY-SA 3.0** - https://creativecommons.org/licenses/by-sa/3.0/
